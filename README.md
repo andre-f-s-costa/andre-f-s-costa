@@ -8,7 +8,7 @@ I'm a software engineer based in Brazil. I'm passionate about using creativity t
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java,cs,spring,dotnet,next,react,mongo,postgres,docker,linux,git,github,gitlab,etc)](https://skillicons.dev) <!-- Add your own icons from https://skillicons.dev -->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java,dart,cs,spring,dotnet,next,react,flutter,mongo,postgres,docker,linux,git,github,gitlab,etc)](https://skillicons.dev) <!-- Add your own icons from https://skillicons.dev -->
 
 ---
 
